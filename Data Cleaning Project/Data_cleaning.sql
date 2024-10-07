@@ -149,3 +149,4 @@ and percentage_laid_off is null;
 Alter Table layoffs_staging2
 Drop column row_num;  #we no longer need row_num (used originally for dupes)
 
+#Were now officially done with this!
